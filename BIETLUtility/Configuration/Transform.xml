@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Transformation Name="" >
+  <WorkingFolder></WorkingFolder>
+  <MaxRecordCounter></MaxRecordCounter>
+  <IsTruncateDestination></IsTruncateDestination>
+  <OriginDeltasChecked></OriginDeltasChecked>
+  <DeltaId></DeltaId>
+  <PrimaryKey></PrimaryKey>
+  <InputSetting Name="">
+    <Connection></Connection>
+    <EnableSQL></EnableSQL>
+    <SQLStatement><![CDATA[SELECT * FROM Table]]></SQLStatement>
+  </InputSetting>
+  <OutputSetting Name="">
+    <Connection></Connection>
+    <EnableSQL></EnableSQL>
+    <SQLStatement><![CDATA[]]></SQLStatement>
+  </OutputSetting>
+  <Connections>
+    <Connection Name="Connection1">
+      <ConnectionType></ConnectionType>
+      <Server></Server>
+      <Username></Username>
+      <Password></Password>
+      <Database></Database>
+      <Table></Table>
+    </Connection>
+  </Connections>
+</Transformation> 

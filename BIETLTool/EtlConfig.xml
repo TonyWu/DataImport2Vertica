@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EtlConfig>
+  <SmtpServer>
+    <Server>ht.ef.com</Server>
+    <PickupDirectoryLocation>\\10.43.42.153\Pickup</PickupDirectoryLocation>
+    <User>English.Report@ef.com</User>
+    <Password>9:::</Password>
+    <ExceptionMailFrom>EtlException@ef.com</ExceptionMailFrom>
+    <ExceptionMailTo>Tony.Wu@ef.com</ExceptionMailTo>
+    <UsePickupDirectoryLocation>False</UsePickupDirectoryLocation>
+  </SmtpServer>
+  <Transformations>    
+  </Transformations>
+  <Connections>    
+  </Connections>
+</EtlConfig>
